@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Building deep learning models and backend systems.<br><br>👯 I’m looking to collaborate on AI applications, Currently working on an ai startup.<br><br>🤝 I’m looking for help with Optimizing neural networks and backend performance.<br><br>🌱 I’m currently learning Transformers, generative AI, and UI/UX design.<br><br>💬 Ask me about CNNs, RNNs, backend engineering, and AI deployment.<br><br>⚡ Fun fact My neural networks train better than my brain during exams! 😅</p>
+<p align="left">🔭 I’m currently working on Building deep learning models and backend systems.also created blockchain based systems for security<br><br>👯 I’m looking to collaborate on AI applications, Currently working on an ai startup.<br><br>🤝 I’m looking for help with Optimizing neural networks and backend performance.<br><br>🌱 I’m currently learning Transformers, generative AI, and UI/UX design.<br><br>💬 Ask me about CNNs, RNNs, backend engineering, and AI deployment.<br><br>⚡ Fun fact My neural networks train better than my brain during exams! 😅</p>
 
 ###
 
